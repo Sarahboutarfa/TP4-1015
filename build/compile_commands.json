@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/sarahboutarfa/Desktop/INF1015/TP4/build",
+  "command": "/usr/bin/clang++  -isystem /Users/sarahboutarfa/Desktop/INF1015/TP4/include -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsigned-char -Wall -Wextra -Wpedantic -Woverloaded-virtual -Wno-unknown-pragmas -Wno-enum-compare -Wshadow --coverage -o CMakeFiles/ProjetTD2.dir/bibliotheque_cours/bibliotheque_cours.cpp.o -c /Users/sarahboutarfa/Desktop/INF1015/TP4/bibliotheque_cours/bibliotheque_cours.cpp",
+  "file": "/Users/sarahboutarfa/Desktop/INF1015/TP4/bibliotheque_cours/bibliotheque_cours.cpp",
+  "output": "CMakeFiles/ProjetTD2.dir/bibliotheque_cours/bibliotheque_cours.cpp.o"
+},
+{
+  "directory": "/Users/sarahboutarfa/Desktop/INF1015/TP4/build",
+  "command": "/usr/bin/clang++  -isystem /Users/sarahboutarfa/Desktop/INF1015/TP4/include -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsigned-char -Wall -Wextra -Wpedantic -Woverloaded-virtual -Wno-unknown-pragmas -Wno-enum-compare -Wshadow --coverage -o CMakeFiles/ProjetTD2.dir/bibliotheque_cours/verification_allocation.cpp.o -c /Users/sarahboutarfa/Desktop/INF1015/TP4/bibliotheque_cours/verification_allocation.cpp",
+  "file": "/Users/sarahboutarfa/Desktop/INF1015/TP4/bibliotheque_cours/verification_allocation.cpp",
+  "output": "CMakeFiles/ProjetTD2.dir/bibliotheque_cours/verification_allocation.cpp.o"
+},
+{
+  "directory": "/Users/sarahboutarfa/Desktop/INF1015/TP4/build",
+  "command": "/usr/bin/clang++  -isystem /Users/sarahboutarfa/Desktop/INF1015/TP4/include -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fsigned-char -Wall -Wextra -Wpedantic -Woverloaded-virtual -Wno-unknown-pragmas -Wno-enum-compare -Wshadow --coverage -o CMakeFiles/ProjetTD2.dir/td3_solutionnaire.cpp.o -c /Users/sarahboutarfa/Desktop/INF1015/TP4/td3_solutionnaire.cpp",
+  "file": "/Users/sarahboutarfa/Desktop/INF1015/TP4/td3_solutionnaire.cpp",
+  "output": "CMakeFiles/ProjetTD2.dir/td3_solutionnaire.cpp.o"
+}
+]
